@@ -1,1 +1,1 @@
-# TypeScripe
+# TypeScript.
